@@ -1,0 +1,15 @@
+body {
+  color: #101820;
+  background-color: #FEE715;
+}
+
+.home-link {
+  text-decoration: none;
+  color: #101820;
+  padding: 10px;
+  border: 3px solid #ffa500;
+  margin: 0px 0;
+  border-radius: 12px;
+  display: block;
+  text-align: center;
+}
